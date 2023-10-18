@@ -1,4 +1,4 @@
-# React Interview Questions & Answers
+# React Interview Questions
 
 1.  ### What is React?
 
